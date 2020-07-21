@@ -1,4 +1,4 @@
-package ar.com.ada.api.pooflixapi.services;
+package ar.com.ada.api.pooflixapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

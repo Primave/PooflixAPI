@@ -1,4 +1,4 @@
-package ar.com.ada.api.stephix.controllers;
+package ar.com.ada.api.pooflixapi.controllers;
 import java.util.*;
 
 import org.springframework.beans.factory.annotation.Autowired;
